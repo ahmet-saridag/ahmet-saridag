@@ -1,5 +1,45 @@
 # 💫 About Me:
-🔭 I’m currently working on React.js and Next.js<br>👯 I’m looking to collaborate with Great Companies<br>🌱 I’m currently learning Best practices of Web Applications <br>💬 Ask me about Web applications written with Next.js and React.js<br>📫 How to reach me: ahmet.saridagj@gmail.com<br>⚡ Fun fact: I love 📚, ♟, 🚴🏻, 🎹 and lots of ☕<br><br>Hi there,<br><br>● 3+ years of professional front-end development around the user experience, an eye for design and attention to detail, and experience with responsive web design<br><br>● Have the ability to work with a design team and translate UI/UX design wireframes to scalable code<br>Experience in developing front-end software, with deep experience in one or more relevant front-end frameworks (React.js, Next.js)<br><br>● Fluent with modern JavaScript and its build tools/architecture, our platform is a React/GraphQL app with standard tooling (Webpack, Babel, ES6, Linting, JS Typing, Prettier, etc)<br><br>● Continue to optimize front-end related frameworks and tools to improve development experience<br>Ability to work both autonomously and as part of a team, including the ability to collaborate closely with engineers in other locations<br><br>● Take a collaborative approach to work and incorporate feedback from product, design, and your engineering peers<br><br>● Care about helping users succeed in their goals through the features you build<br>Strong knowledge of SEO principles<br><br>● Solid understanding of the full web technology stack (e.g. HTTP, cookies, headers, asset lazy loading / caching, CDNs, caching, compression, etc.)<br><br>● Good understanding of programming concepts such as common data structures and algorithms, profiling / optimization<br><br>● Experience contributing to and working with a reusable component library and design system<br><br>Skillet 🦸‍♂️<br><br>● React.js ● Next.js
+🔭 I’m currently working on React.js and Next.js<br>👯 I’m looking to collaborate with Great Companies<br>🌱 I’m currently learning Best practices of Web Applications <br>💬 Ask me about Web applications written with Next.js and React.js<br>📫 How to reach me: ahmet.saridagj@gmail.com<br>⚡ Fun fact: I love 📚, ♟, 🚴🏻, 🎹 and lots of ☕<br><br>Hi there,<br><br>With over 4 years of professional experience, I have developed deep expertise in using Redux.js, TypeScript, JavaScript, Next.js, and React.js, some of the most popular and powerful front-end technologies in the industry.
+
+🔎 What are you looking for:
+
+*  Proficiency in React, Redux, Next.js, TypeScript, HTML, PUG, CSS, and JavaScript (ES6).
+* Azure DevOps, Mongo DB, Firebase
+* Strapi, Stripe
+* Tailwind, Bootstrap, Material UI,
+* Google Geo Api's,
+* SSR APPS,
+*  Experience with RESTful APIs and responsive design.
+*  Knowledge of web security best practices.
+*  Strong problem-solving and debugging skills.
+*  Knowledge of Git, Webpack and Babel
+*  Effective written and verbal communication skills in English language
+
+✔️ What i will do:
+
+*  Develop and maintain high-quality web applications using React, Redux, and Next.js.
+*  Collaborate with cross-functional teams to meet project requirements.
+*  Write clean, scalable, and maintainable code following best practices.
+*  Optimize applications for performance, reliability, and security.
+*  Participate in code reviews and provide constructive feedback.
+*  Stay current with the latest web development trends and technologies.
+*  Troubleshoot and resolve technical issues as they arise.
+
+Projects:
+
+https://www.tsc.ca,
+https://www.yarininsuyu.com,
+https://hepiyi.com.tr,
+https://www.araskargo.com.tr,
+https://www.anadoluhayat.com.tr,
+https://thestudentpromise.com,
+https://iyiyevarim.silverline.com
+https://silverline.com,
+
+References:
+
+https://www.linkedin.com/in/güner-selamoğlu-31804345/  | Team Lead at HavasCX Istanbul
+https://www.linkedin.com/in/cansozbir/ | Old Team Lead  at The Student Promise
 
 
 ## 🌐 Socials:
